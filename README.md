@@ -4,7 +4,8 @@ This project is built to analyze and track the performance of social media campa
 📊 Social Media Campaign Performance Tracker
 The Social Media Campaign Performance Tracker is a data visualization project designed to monitor and analyze the performance of social media campaigns across multiple platforms. It provides clear insights into campaign effectiveness, audience behavior, engagement levels, and overall reach. This project aims to simplify decision-making by converting raw campaign data into meaningful and interactive dashboards.
 
-https://github.com/Misbah-Sheikh/FUTURE_DS_02/blob/049912776e9b9491dcaa0b0e074dad956836d9a9/Screenshot%202025-08-20%20204555.png
+<img width="1443" height="803" alt="Screenshot 2025-08-20 204555" src="https://github.com/user-attachments/assets/8c37e563-5f02-4ec3-a41c-dc9322c6a957" />
+
 ---
 🚀 Project Objectives
 
