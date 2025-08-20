@@ -6,6 +6,7 @@ The Social Media Campaign Performance Tracker is a data visualization project de
 
 <img width="1443" height="803" alt="Screenshot 2025-08-20 204555" src="https://github.com/user-attachments/assets/8c37e563-5f02-4ec3-a41c-dc9322c6a957" />
 
+
 ---
 🚀 Project Objectives
 
@@ -16,6 +17,7 @@ To track important KPIs like reach, impressions, engagement, and audience demogr
 To provide comparative insights that help in identifying the best-performing campaigns.
 
 To create an interactive dashboard for quick and data-driven decision-making.
+
 
 ---
 
